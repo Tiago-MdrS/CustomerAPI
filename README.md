@@ -605,16 +605,3 @@ Algumas melhorias planejadas para futuras versões:
 ## Tiago Madeira Silva
 
 **Desenvolvedor Web / Backend**
-
-Tecnologias de interesse:
-
-* Python
-* FastAPI
-* C#
-* .NET
-* JavaScript
-* React
-* Node.js
-* SQL
-* Git
-* GitHub
